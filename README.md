@@ -61,7 +61,7 @@ source venv/bin/activate          # Linux / macOS
 pip install -r requirements.txt
 
 # 4. Запустите Jupyter
-jupyter notebook notebooks/laba1_alt.ipynb
+jupyter notebook iris_lda_classification.ipynb
 ```
 
 ---
