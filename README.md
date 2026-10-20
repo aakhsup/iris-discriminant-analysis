@@ -42,7 +42,7 @@
 ### Вариант 1. Google Colab
 
 1. Откройте [Google Colab](https://colab.research.google.com/).
-2. Загрузите `notebooks/laba1_alt.ipynb` через **File → Upload notebook**.
+2. Загрузите `iris_lda_classification.ipynb` через **File → Upload notebook**.
 3. Выполните ячейки сверху вниз.
 
 ### Вариант 2. Локальный запуск
@@ -131,8 +131,8 @@ pip install -r requirements.txt
 .
 ├── README.md
 ├── requirements.txt
-└── notebooks/
-    └── iris_lda_classification.ipynb      # основной ноутбук с анализом
+└── iris_lda_classification.ipynb      # основной ноутбук с анализом
+
 ```
 
 ---
